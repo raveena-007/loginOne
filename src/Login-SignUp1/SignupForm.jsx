@@ -59,7 +59,7 @@ const SignupForm = () => {
         />
       </div>
       <button type="submit" className="submit-btn">
-        SIGN UP...
+        SIGN UP
       </button>
       <div className="social-login">
         <p>OR</p>

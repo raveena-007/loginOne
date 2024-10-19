@@ -22,7 +22,7 @@ const LoginForm = () => {
 
   return (
     <form className="form" onSubmit={handleSubmit}>
-      <h2 style={{ textAlign: "center" }}>LOGIN...</h2>
+      <h2 style={{ textAlign: "center" }}>LOGIN</h2>
       <div className="form-group">
         <label>Email</label>
         <input
